@@ -1,0 +1,12 @@
+name = "TDSControl"
+uuid = "c0436ff7-9af3-4436-9e3d-25884c6e5017"
+version = "0.0.1"
+authors = ["Pieter Appeltans <appeltanspieter@gmail.com>"]
+
+[deps]
+CxxWrap = "1f15a43c-97ca-5a2a-ae31-89f07a497df4"
+TDSControl_jll = "16af77cc-c7c7-5372-bd53-374e298a3334"
+
+[compat]
+CxxWrap = "0.17.4"
+TDSControl_jll = "0.0.1"
